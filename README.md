@@ -1,5 +1,5 @@
 # Notes-for-Deep-Learning
-Notes for deep learning online course, given by Andrew Ng on https://mooc.study.163.com/smartSpec/detail/1001319001.htm.
+Notes for deep learning online course, given by Andrew Ng on: https://mooc.study.163.com/smartSpec/detail/1001319001.htm.
 
 This online course consists of 5 parts in total, some basic knowledge about neural network is introduced in the first few parts. While in the part4 and part5, CNN and RNN are explained in detail respectively. 
 
