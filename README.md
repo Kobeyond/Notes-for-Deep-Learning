@@ -5,6 +5,8 @@ This online course consists of 5 parts in total, some basic knowledge about neur
 
 My notes here mainly covers `CNN` and `RNN`. As you can see on the website, both part4 and part5 consist of 4 `weeks`. So, my notes are uploaded every 'week' and continually updating.  
 
+<div align=center><img width="400" height="400" src="https://github.com/Kobeyond/TankWar-Game/blob/master/image-folder/screenshot.png"/></div>
+
 ## Tip:
 1.The notes are suitable for beginners in DL, and you can take it as a reference after attending the online course. 
 
