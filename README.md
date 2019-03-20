@@ -6,6 +6,6 @@ This online course consists of 5 parts in total, some basic knowledge about neur
 My notes here mainly covers `CNN` and `RNN`. As you can see on the website, both part4 and part5 consist of 4 `weeks`. So, my notes are uploaded every 'week' and continually updating.  
 
 ## Tip:
-1.The notes are suitable for beginners in DL, and you can take it as reference after attending the online course. 
+1.The notes are suitable for beginners in DL, and you can take it as a reference after attending the online course. 
 
-2.Due to my limited knowledge, some opinions in the notes may be somehow subjective or incorrect, so you should hold a critical attitude toward it.  
+2.Due to my limited knowledge, some opinions in the notes may be somehow subjective or incorrect, so you should hold a critical attitude towards it.  
