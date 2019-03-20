@@ -5,6 +5,8 @@ This online course consists of 5 parts in total, some basic knowledge about neur
 
 My notes here mainly covers `CNN` and `RNN`. As you can see on the website, both part4 and part5 consist of 4 `weeks`. So, my notes are uploaded every 'week' and continually updating.  
 
+
+## Contents of CNN:
 <table><tr>
 <td><img width="410" height="350" src="https://github.com/Kobeyond/Notes-for-Deep-Learning/blob/master/Contents/CNN_Week2_Contents.png"/></td>
 <td><img width="410" height="350" src="https://github.com/Kobeyond/Notes-for-Deep-Learning/blob/master/Contents/CNN_Week3_Contents.png"/></td>
