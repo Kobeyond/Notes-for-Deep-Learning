@@ -3,7 +3,7 @@ Notes for deep learning online course, given by Andrew Ng on: [Mooc.study.163](h
 
 This online course consists of 5 parts in total, some basic knowledge about neural network is introduced in the first few parts. While in the part4 and part5, CNN and RNN are explained in detail respectively.  
 
-My notes here mainly covers `CNN` and `RNN`. As you can see on the website, both part4 and part5 consist of 4 `weeks`. So, my notes are uploaded every 'week' and continually updating.  
+My notes here mainly covers `CNN` and `RNN`. As you can see on the website, both part4 and part5 consist of 4 `weeks`. So, my notes which are `continually updating`, will be uploaded every 'week'.  
 
 
 ## Contents of CNN:
