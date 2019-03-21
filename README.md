@@ -12,6 +12,12 @@ My notes here mainly covers `CNN` and `RNN`. As you can see on the website, both
 <td><img width="410" height="350" src="https://github.com/Kobeyond/Notes-for-Deep-Learning/blob/master/Contents/CNN_Week3_Contents.png"/></td>
 </tr></table>
 
+## Contents of RNN:
+<table><tr>
+<td><img width="410" height="350" src="https://github.com/Kobeyond/Notes-for-Deep-Learning/blob/master/Contents/RNN_Week1_Contents.png"/></td>
+
+</tr></table>
+
 
 
 ## Tip:
